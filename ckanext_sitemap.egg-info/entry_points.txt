@@ -1,0 +1,5 @@
+
+        [ckan.plugins]
+        # Add plugins here, e.g.
+        sitemap=ckanext.sitemap.plugin:SitemapPlugin
+    
